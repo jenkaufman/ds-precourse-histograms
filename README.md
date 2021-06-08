@@ -10,3 +10,4 @@ To complete the assignment, you must be sure to first fork and clone this repo, 
 
 Don't forget that you can always find help in the [DS precourse slack community](https://dsi-precourse-g.slack.com) on the #ask_for_technical_help channel.
 
+![scrambled](https://i.ibb.co/z8HXCGg/scrambled.png)
